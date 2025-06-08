@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+sqlite3 
+requests
+yagmail
+hashlib
+python-dotenv
+
